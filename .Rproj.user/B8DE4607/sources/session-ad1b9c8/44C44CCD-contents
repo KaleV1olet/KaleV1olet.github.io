@@ -1,0 +1,16 @@
+---
+title: "Caleb Clark"
+image: IMG_5767.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/KaleV1olet
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/caleb-clark-201878440
+    - icon: inboxes
+      text: Contact
+      href: mailto:cc480@uark.edu
+---
