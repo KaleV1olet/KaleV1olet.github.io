@@ -1,6 +1,7 @@
 ---
 title: "Caleb Clark"
 image: IMG_5767.jpeg
+description: I am an Industrial Engineering and Operations Analyst student at the University of Arkansas Fayetteville.
 about:
   template: jolla
   links:
