@@ -1,5 +1,7 @@
 ---
 title: "Data Visualization"
+author: "Max Bassler, Caleb Clark, Kaleb Rudolph"
+date: "11-13-2026"
 ---
 
 **Flight Delays and Cancellations** 
